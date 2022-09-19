@@ -10,7 +10,6 @@ body{
     font-family: 'Roboto', sans-serif;
     background-repeat: no-repeat;
     transition: background .4s
-    
 }
 
 .layout__items{
@@ -24,28 +23,23 @@ body{
     background-color: #1f1f1f;
     font-family: 'Roboto', sans-serif;
     background-repeat: no-repeat;
-    
 }
 
 .dark-mode .title{
     background-color: #1f1f1f;
     color: #fff;
-    
 }
 
 .dark-mode .aboutme__item{
     background-color: #1f1f1f;
-    
 }
 
 .dark-mode .layout{
     color: #fff;
     border: #fff solid ;
-    
 }
 
 .dark-mode .footer{
-    
     border: #fff solid 2px 0px  0px 0px;
 }
 
@@ -112,11 +106,8 @@ a{
 }
 
 .aboutme__title__btn{
-   
    display: flex;
    margin-top: -200px;
-   
-
 }
 
 .overlay{
@@ -145,28 +136,20 @@ a{
     color: #fff;
 }
 
-  
-
 
 .aboutme__title{
-    
     width: 100%;
-    
     color: #1f1f1f;
     border-radius: 3px 0px 0px 0px;
     transition: all .4s ;
 }
 
 .aboutme__item{
-   
     width: 100%;
-    
     margin: 0 auto;
     background-color: #fff;
     padding: 0px 40px;
     transition: all .4s ;
-    
-    
 }
 
 .aboutme__text{
@@ -175,14 +158,12 @@ a{
     width: 100%;
     line-height: 23px;
     margin-top: -70px;
-    
 }
 
 
 .aboutme__text-item{
     padding-top: 20px;
     list-style-type: none;
-    
 }
 
 .layouts{
@@ -197,8 +178,6 @@ a{
 
 .layout{
     display: inline-block;
-    
-    
     margin-bottom: 70px;
     width: 450px;
     border: 2px solid rgb(63, 25, 114);
@@ -206,10 +185,6 @@ a{
     transition: all 0.4s ;
     cursor: pointer;
     border-radius: 3px;
-    
-    
-    
-    
 
 }
 
@@ -233,7 +208,6 @@ a{
 }
 .layout__title{
     font-size: 28px;
-    
     padding-left: 7px;
 }
 
@@ -241,14 +215,10 @@ a{
     background-color: #000;
     color: #fff;
     height: 135px;
-   
     text-align: center;
-    
-   
 }
 
 
-    
 
 .footer__contacts{
     display: flex;
@@ -256,8 +226,7 @@ a{
      padding-top: 35px;
      text-align: center;
      justify-content: center;
-     
-     
+
 }
 
 .contacts__link-img{
@@ -283,18 +252,18 @@ a{
     padding-left: 5px;
 }
 
-    
+
 
 .vk{
     width: 33px;
     height: 29px;
-    
+
 }
 .github{
     margin-bottom: 1px;
     width: 33px;
     height: 27px;
-    
+
 }
 
 .footer__contacts{
@@ -328,7 +297,7 @@ a{
     .left-margin{
         margin-left: 136px;
     }
-    
+
 }
 
 
@@ -370,7 +339,7 @@ a{
 
     .left-margin{
         margin-left: 0;
-        
+
     }
 
     .layout{
@@ -384,32 +353,31 @@ a{
     }
 
     .header__second-title{
-       font-size:25px ; 
+       font-size:25px ;
     }
 
     .title{
         font-size: 35px;
     }
-    
     .aboutme__text{
-        font-size:15px ; 
+        font-size:15px ;
     }
 
     .vk{
         width: 43px;
         height: 39px;
-        
+
     }
     .github{
         margin-bottom: 1px;
         width: 43px;
         height: 37px;
-        
+
     }
     .footer__contacts{
     padding-top: 25px;
     }
-   
+
 }
 
 
@@ -417,7 +385,7 @@ a{
 
 
 @media (max-width:550px){
-   
+
     .container{
         max-width: 400px;
     }
@@ -427,10 +395,9 @@ a{
 
     .header__second-title{
         width: 100%;
-        
+
     }
 
-    
 
     .layout{
         width: 399px;
@@ -439,7 +406,6 @@ a{
     }
 
 
-    
 
 }
 
@@ -449,7 +415,6 @@ a{
         .layout:hover{
             transform: none;
         }
-    
         .container{
             max-width: 350px;
         }
@@ -457,16 +422,16 @@ a{
         .title{
             font-size: 20px;
         }
-        
+
         .aboutme__text{
-            font-size:12px ; 
+            font-size:12px ;
             margin-top: -60px;
         }
 
         .layout{
             width: 335px;
         }
-        
+
     }
 
     @media (max-width:350px){
@@ -482,16 +447,15 @@ a{
         .header__title{
             font-size: 25px;
         }
-    
         .header__second-title{
-           font-size:15px ; 
+           font-size:15px ;
         }
 
         .layout{
             width: 285px;
         }
 
- 
+
         .aboutme__title__btn{
             margin-top: -220px;
         }
@@ -508,7 +472,7 @@ a{
     .header__second-title{
         line-height: 18px;
     }
-    
+
 
     }
 
@@ -516,10 +480,10 @@ a{
     @media (max-height:600px){
         .header__second-title{
             width: 70%;
-            
+
         }
     }
-  
+
 
 
 
