@@ -1,2 +1,2 @@
 # rsschool-cv
-this my first file in rs-school
+https://github.com/eart4/rsschool-cv/
